@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Nuevo repositorio (2) de prueba del módulo 2 Hnery
+Prueba de cómo crear repositorio y clonarlo desde github a mi escritorio a través de gitbash.
